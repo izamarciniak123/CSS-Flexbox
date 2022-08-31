@@ -21,15 +21,13 @@ body{
 
 .box{
     height: 100px;
-    min-width: 200px;
-    flex-grow: 1;
-    
+    flex: 1;
+            
 }
 
 .one{
     background: red;
-
-
+    
 }
 
 .two{
@@ -39,6 +37,5 @@ body{
 
 .three{
     background: green;
-   
-   
+    
 }
